@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 a
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 aardvark
 abaci
 aback
@@ -394,7 +397,10 @@ acute
 acutely
 acuteness
 acyclovir
+<<<<<<< HEAD
 ad
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 adage
 adagio
 adamant
@@ -772,7 +778,10 @@ agronomist
 agronomy
 aground
 ague
+<<<<<<< HEAD
 ah
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 aha
 ahead
 ahem
@@ -1027,7 +1036,10 @@ alumnae
 alumni
 alumnus
 always
+<<<<<<< HEAD
 am
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 amalgam
 amalgamate
 amalgamation
@@ -1178,7 +1190,10 @@ amusement
 amusing
 amusingly
 amylase
+<<<<<<< HEAD
 an
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 anabolism
 anachronism
 anachronistic
@@ -1924,7 +1939,10 @@ artsy
 artwork
 arty
 arum
+<<<<<<< HEAD
 as
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 asbestos
 ascend
 ascendance
@@ -2111,7 +2129,10 @@ asymmetrical
 asymmetrically
 asymmetry
 asymptomatic
+<<<<<<< HEAD
 at
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 atavism
 atavist
 atavistic
@@ -2363,7 +2384,10 @@ avowal
 avowed
 avowedly
 avuncular
+<<<<<<< HEAD
 aw
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 await
 awake
 awaken
@@ -2394,7 +2418,10 @@ awning
 awoke
 awoken
 awry
+<<<<<<< HEAD
 ax
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 axe
 axes
 axial
@@ -2856,7 +2883,10 @@ bayonet
 bayou
 bazaar
 bazooka
+<<<<<<< HEAD
 be
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 beach
 beachcomber
 beachhead
@@ -3223,7 +3253,10 @@ bewitchment
 bey
 beyond
 bezel
+<<<<<<< HEAD
 bi
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 biannual
 biannually
 bias
@@ -4569,7 +4602,10 @@ buzz
 buzzard
 buzzer
 buzzword
+<<<<<<< HEAD
 by
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 bye
 bygone
 bygones
@@ -10118,7 +10154,10 @@ dizzying
 djellaba
 djellabah
 djinn
+<<<<<<< HEAD
 do
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 doable
 dobbin
 doc
@@ -10823,7 +10862,10 @@ ecumenical
 ecumenically
 ecumenism
 eczema
+<<<<<<< HEAD
 ed
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 eddy
 edelweiss
 edema
@@ -10944,7 +10986,10 @@ egregiously
 egregiousness
 egress
 egret
+<<<<<<< HEAD
 eh
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 eider
 eiderdown
 eight
@@ -11098,7 +11143,10 @@ elusively
 elusiveness
 elver
 elves
+<<<<<<< HEAD
 em
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 emaciate
 emaciated
 emaciation
@@ -11237,7 +11285,10 @@ emulsification
 emulsifier
 emulsify
 emulsion
+<<<<<<< HEAD
 en
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 enable
 enabler
 enabling
@@ -11897,7 +11948,10 @@ evolutionist
 evolve
 ewe
 ewer
+<<<<<<< HEAD
 ex
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 exacerbate
 exacerbation
 exact
@@ -12332,7 +12386,10 @@ eyetooth
 eyewash
 eyewitness
 eyrie
+<<<<<<< HEAD
 fa
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 fable
 fabled
 fabric
@@ -14670,7 +14727,10 @@ gnome
 gnomic
 gnomish
 gnu
+<<<<<<< HEAD
 go
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 goad
 goal
 goalie
@@ -15279,7 +15339,10 @@ gyro
 gyroscope
 gyroscopic
 gyve
+<<<<<<< HEAD
 ha
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 haberdasher
 haberdashery
 habiliment
@@ -15656,7 +15719,10 @@ hazily
 haziness
 hazing
 hazy
+<<<<<<< HEAD
 he
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 head
 headache
 headband
@@ -15988,7 +16054,10 @@ hexagram
 hexameter
 hey
 heyday
+<<<<<<< HEAD
 hi
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 hiatus
 hibachi
 hibernate
@@ -16116,7 +16185,10 @@ hitherto
 hitter
 hive
 hives
+<<<<<<< HEAD
 ho
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 hoagie
 hoagy
 hoard
@@ -16774,7 +16846,10 @@ iconoclastic
 iconography
 ictus
 icy
+<<<<<<< HEAD
 id
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 idea
 ideal
 idealism
@@ -16825,7 +16900,10 @@ idyl
 idyll
 idyllic
 idyllically
+<<<<<<< HEAD
 if
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 iffiness
 iffy
 igloo
@@ -17231,7 +17309,10 @@ impurity
 imputable
 imputation
 impute
+<<<<<<< HEAD
 in
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 inability
 inaccessibility
 inaccessible
@@ -18616,7 +18697,10 @@ irritation
 irrupt
 irruption
 irruptive
+<<<<<<< HEAD
 is
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 isinglass
 island
 islander
@@ -18645,7 +18729,10 @@ issue
 issuer
 isthmian
 isthmus
+<<<<<<< HEAD
 it
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 italic
 italicization
 italicize
@@ -19243,7 +19330,10 @@ kudos
 kudzu
 kumquat
 kvetch
+<<<<<<< HEAD
 la
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 lab
 label
 labia
@@ -20078,7 +20168,10 @@ living
 lizard
 llama
 llano
+<<<<<<< HEAD
 lo
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 load
 loaded
 loader
@@ -20437,7 +20530,10 @@ lyrically
 lyricism
 lyricist
 lyrics
+<<<<<<< HEAD
 ma
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 macabre
 macadam
 macadamia
@@ -21030,7 +21126,10 @@ maypole
 mayst
 maze
 mazurka
+<<<<<<< HEAD
 me
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 mead
 meadow
 meadowlark
@@ -21405,7 +21504,10 @@ mewl
 mews
 mezzanine
 mezzo
+<<<<<<< HEAD
 mi
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 miasma
 miasmata
 mica
@@ -22276,7 +22378,10 @@ mower
 mown
 moxie
 mozzarella
+<<<<<<< HEAD
 mu
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 much
 mucilage
 mucilaginous
@@ -22494,7 +22599,10 @@ mutuality
 mutually
 muumuu
 muzzle
+<<<<<<< HEAD
 my
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 mycologist
 mycology
 myelitis
@@ -22969,7 +23077,10 @@ nitroglycerin
 nitroglycerine
 nitwit
 nix
+<<<<<<< HEAD
 no
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 nobelium
 nobility
 noble
@@ -23418,7 +23529,10 @@ nowise
 noxious
 nozzle
 nth
+<<<<<<< HEAD
 nu
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 nuance
 nuanced
 nub
@@ -23728,7 +23842,10 @@ oedipal
 oenology
 oenophile
 oeuvre
+<<<<<<< HEAD
 of
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 off
 offal
 offbeat
@@ -23780,7 +23897,10 @@ ogler
 ogre
 ogreish
 ogress
+<<<<<<< HEAD
 oh
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 ohm
 ohmmeter
 oho
@@ -23814,7 +23934,10 @@ oligarchical
 oligarchy
 oligopoly
 olive
+<<<<<<< HEAD
 om
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 ombudsman
 omega
 omelet
@@ -23837,7 +23960,10 @@ omnivore
 omnivorous
 omnivorously
 omnivorousness
+<<<<<<< HEAD
 on
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 once
 oncogene
 oncologist
@@ -23967,7 +24093,10 @@ opulence
 opulent
 opulently
 opus
+<<<<<<< HEAD
 or
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 oracle
 oracular
 oral
@@ -24510,7 +24639,10 @@ ovulate
 ovulation
 ovule
 ovum
+<<<<<<< HEAD
 ow
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 owe
 owing
 owl
@@ -24519,7 +24651,10 @@ owlish
 own
 owner
 ownership
+<<<<<<< HEAD
 ox
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 oxblood
 oxbow
 oxcart
@@ -24539,7 +24674,10 @@ oxymora
 oxymoron
 oyster
 ozone
+<<<<<<< HEAD
 pa
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 pablum
 pabulum
 pace
@@ -25714,7 +25852,10 @@ physiology
 physiotherapist
 physiotherapy
 physique
+<<<<<<< HEAD
 pi
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 pianissimo
 pianist
 piano
@@ -28156,7 +28297,10 @@ razor
 razorback
 razz
 razzmatazz
+<<<<<<< HEAD
 re
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 reabsorb
 reach
 reachable
@@ -31077,7 +31221,10 @@ sexual
 sexuality
 sexually
 sexy
+<<<<<<< HEAD
 sh
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 shabbily
 shabbiness
 shabby
@@ -32143,7 +32290,10 @@ snug
 snuggle
 snugly
 snugness
+<<<<<<< HEAD
 so
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 soak
 soaking
 soap
@@ -35131,7 +35281,10 @@ thymus
 thyroid
 thyroidal
 thyself
+<<<<<<< HEAD
 ti
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 tiara
 tibia
 tibiae
@@ -35293,7 +35446,10 @@ titter
 tittle
 titular
 tizzy
+<<<<<<< HEAD
 to
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 toad
 toadstool
 toady
@@ -36277,7 +36433,10 @@ ufology
 ugh
 ugliness
 ugly
+<<<<<<< HEAD
 uh
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 ukase
 ukelele
 ukulele
@@ -36308,7 +36467,10 @@ ultrasound
 ultraviolet
 ululate
 ululation
+<<<<<<< HEAD
 um
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 umbel
 umber
 umbilical
@@ -37575,7 +37737,10 @@ unwritten
 unyielding
 unyoke
 unzip
+<<<<<<< HEAD
 up
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 upbeat
 upbraid
 upbringing
@@ -37686,7 +37851,10 @@ urologist
 urology
 ursine
 urticaria
+<<<<<<< HEAD
 us
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 usability
 usable
 usage
@@ -38618,7 +38786,10 @@ wayside
 wayward
 waywardly
 waywardness
+<<<<<<< HEAD
 we
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 weak
 weaken
 weakener
@@ -39384,11 +39555,17 @@ xenophobic
 xerographic
 xerography
 xerox
+<<<<<<< HEAD
 xi
 xylem
 xylophone
 xylophonist
 ya
+=======
+xylem
+xylophone
+xylophonist
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 yacht
 yachting
 yachtsman
@@ -39415,7 +39592,10 @@ yawl
 yawn
 yawner
 yaws
+<<<<<<< HEAD
 ye
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 yea
 yeah
 year
@@ -39453,7 +39633,10 @@ yin
 yip
 yipe
 yippee
+<<<<<<< HEAD
 yo
+=======
+>>>>>>> 98dc7430ba5fd7af219fd16c9125cd1465f7eef9
 yodel
 yodeler
 yoga
