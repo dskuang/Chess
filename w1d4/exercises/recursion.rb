@@ -114,12 +114,13 @@ def merge_sort(array)
   return array if array.length <= 1
   middle = array.length / 2
   left = array[0...middle]
+  p left
   right = array[middle..-1]
+  p right
   merge(merge_sort(left), merge_sort(right))
 end
 
 def merge(arr1, arr2)
-  byebug
   if arr1.first >= arr2.first
     arr1[0], arr2[0] = arr2[0], arr1[0]
   end
