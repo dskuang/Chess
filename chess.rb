@@ -25,6 +25,11 @@ class Chess
     board.seed_pieces
 
     @board.render(players.last.cursor)
+
+    puts "-------------------------------------------------------"
+    puts "Use arrow keys to move"
+    puts "Press enter to select spot"
+    
     begin
       until won?
         puts "#{players.first.color.capitalize}'s Turn"
@@ -40,7 +45,7 @@ class Chess
 
         players.last.cursor = end_pos
         board.selected = false
-        
+
         move_piece
 
         if @board.check?(players)
