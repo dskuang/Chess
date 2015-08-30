@@ -1,7 +1,8 @@
 # Chess
+
+![chess]
+
 Human Vs. Human
-
-
 Ruby is required to run this game
 
 - install ruby
@@ -36,7 +37,7 @@ The game will also let you know if you're currently in check.
 
 Good Luck.
 
-
+[chess]: ./pictures/chess.gif
 [instructions]: ./pictures/instructions.png
 [highlights]: ./pictures/highlights.png
 [valid]: ./pictures/valid.png
