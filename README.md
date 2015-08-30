@@ -34,7 +34,7 @@ The game will also let you know if you're currently in check.
 ![check]
 
 
-
+Good Luck.
 
 
 [instructions]: ./pictures/instructions.png
